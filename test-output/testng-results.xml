@@ -10,20 +10,47 @@
     <line>
       <![CDATA[window is maximized]]>
     </line>
+    <line>
+      <![CDATA[entered source and destination cities]]>
+    </line>
+    <line>
+      <![CDATA[entered date and return date]]>
+    </line>
+    <line>
+      <![CDATA[clicked on search]]>
+    </line>
+    <line>
+      <![CDATA[selected arrival time]]>
+    </line>
+    <line>
+      <![CDATA[selected departure time]]>
+    </line>
+    <line>
+      <![CDATA[selected the type of bus as sleeper]]>
+    </line>
+    <line>
+      <![CDATA[selected avaible seat]]>
+    </line>
+    <line>
+      <![CDATA[entered details]]>
+    </line>
+    <line>
+      <![CDATA[Successfully made payment]]>
+    </line>
   </reporter-output>
-  <suite started-at="2022-12-14T09:21:25Z" name="Default suite" finished-at="2022-12-14T09:21:55Z" duration-ms="30204">
+  <suite started-at="2022-12-16T09:29:03Z" name="Default suite" finished-at="2022-12-16T09:29:34Z" duration-ms="31370">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.testrunnerfile@5b1ebf56]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2022-12-14T09:21:25Z" name="Default test" finished-at="2022-12-14T09:21:55Z" duration-ms="30204">
+    <test started-at="2022-12-16T09:29:03Z" name="Default test" finished-at="2022-12-16T09:29:34Z" duration-ms="31370">
       <class name="runner.testrunnerfile">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:runner.testrunnerfile@5b1ebf56]" started-at="2022-12-14T14:51:25Z" name="setUpClass" finished-at="2022-12-14T14:51:25Z" duration-ms="200" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:runner.testrunnerfile@5b1ebf56]" started-at="2022-12-16T14:59:03Z" name="setUpClass" finished-at="2022-12-16T14:59:03Z" duration-ms="201" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.testrunnerfile@5b1ebf56]" started-at="2022-12-14T14:51:25Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-12-14T14:51:55Z" duration-ms="29971" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.testrunnerfile@5b1ebf56]" started-at="2022-12-16T14:59:03Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-12-16T14:59:34Z" duration-ms="31130" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -46,9 +73,36 @@
             <line>
               <![CDATA[window is maximized]]>
             </line>
+            <line>
+              <![CDATA[entered source and destination cities]]>
+            </line>
+            <line>
+              <![CDATA[entered date and return date]]>
+            </line>
+            <line>
+              <![CDATA[clicked on search]]>
+            </line>
+            <line>
+              <![CDATA[selected arrival time]]>
+            </line>
+            <line>
+              <![CDATA[selected departure time]]>
+            </line>
+            <line>
+              <![CDATA[selected the type of bus as sleeper]]>
+            </line>
+            <line>
+              <![CDATA[selected avaible seat]]>
+            </line>
+            <line>
+              <![CDATA[entered details]]>
+            </line>
+            <line>
+              <![CDATA[Successfully made payment]]>
+            </line>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.testrunnerfile@5b1ebf56]" started-at="2022-12-14T14:51:55Z" name="tearDownClass" finished-at="2022-12-14T14:51:55Z" duration-ms="15" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.testrunnerfile@5b1ebf56]" started-at="2022-12-16T14:59:34Z" name="tearDownClass" finished-at="2022-12-16T14:59:34Z" duration-ms="20" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
